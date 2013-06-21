@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>06/11/2013 20:54:41</publishTime>
+    </File>
+    <File Include="Admin.aspx">
+      <publishTime>06/11/2013 21:07:03</publishTime>
+    </File>
+    <File Include="bin/FINPRO.dll">
+      <publishTime>06/11/2013 22:43:03</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/11/2013 21:39:49</publishTime>
+    </File>
+    <File Include="Distributor.aspx">
+      <publishTime>06/11/2013 21:54:33</publishTime>
+    </File>
+    <File Include="EditProfile.aspx">
+      <publishTime>06/11/2013 21:00:21</publishTime>
+    </File>
+    <File Include="FAQ.aspx">
+      <publishTime>06/11/2013 19:01:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/11/2013 21:45:02</publishTime>
+    </File>
+    <File Include="Homepage.Master">
+      <publishTime>06/11/2013 21:13:29</publishTime>
+    </File>
+    <File Include="images/back.jpg">
+      <publishTime>06/11/2013 18:22:32</publishTime>
+    </File>
+    <File Include="images/css3buttons_backgrounds.png">
+      <publishTime>06/11/2013 18:22:32</publishTime>
+    </File>
+    <File Include="images/css3buttons_icons.png">
+      <publishTime>06/11/2013 18:22:32</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>06/11/2013 18:22:32</publishTime>
+    </File>
+    <File Include="images/pattern.gif">
+      <publishTime>06/11/2013 18:22:32</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>06/11/2013 21:00:21</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>06/11/2013 18:55:53</publishTime>
+    </File>
+    <File Include="Petani.aspx">
+      <publishTime>06/11/2013 21:53:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>06/11/2013 18:22:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>06/11/2013 18:22:42</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>06/11/2013 20:44:20</publishTime>
+    </File>
+    <File Include="stylesheets/css3buttons.css">
+      <publishTime>06/11/2013 18:48:47</publishTime>
+    </File>
+    <File Include="stylesheets/default.css">
+      <publishTime>06/11/2013 18:22:54</publishTime>
+    </File>
+    <File Include="stylesheets/Site.css">
+      <publishTime>06/11/2013 18:22:54</publishTime>
+    </File>
+    <File Include="stylesheets/Sitexxx.css">
+      <publishTime>06/11/2013 18:22:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/11/2013 22:47:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

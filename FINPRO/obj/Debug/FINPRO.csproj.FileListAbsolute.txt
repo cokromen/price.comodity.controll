@@ -1,0 +1,5 @@
+c:\users\ayc.nemesis\documents\visual studio 2012\Projects\FINPRO\FINPRO\bin\FINPRO.dll
+c:\users\ayc.nemesis\documents\visual studio 2012\Projects\FINPRO\FINPRO\bin\FINPRO.pdb
+c:\users\ayc.nemesis\documents\visual studio 2012\Projects\FINPRO\FINPRO\obj\Debug\FINPRO.dll
+c:\users\ayc.nemesis\documents\visual studio 2012\Projects\FINPRO\FINPRO\obj\Debug\FINPRO.pdb
+C:\Users\AYC.Nemesis\documents\visual studio 2012\Projects\FINPRO\FINPRO\obj\Debug\FINPRO.csprojResolveAssemblyReference.cache
